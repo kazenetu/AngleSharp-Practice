@@ -12,6 +12,6 @@
   </ItemGroup>
   
   <ItemGroup>
-    <Compile Include="../Program.cs" />
+    <Compile Include="../src/Program.cs" />
   </ItemGroup>
 </Project>
