@@ -1,6 +1,12 @@
 # AngleSharp-Practice
 AngleSharpを使ったHTML解析の試作
 
+## 実行環境
+下記フォルダに移動して実行を行う
+* .NET6: dotnet6
+* .NET7: dotnet7
+* .NET8: dotnet8
+
 ## 実行
 ```
 dotnet run "url" "query"
